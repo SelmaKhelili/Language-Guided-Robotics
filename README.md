@@ -2,7 +2,7 @@
 
 ![System Overview](./docs/home.png)
 
-**Research Report** | **May 2026 - September 2026 ** | **SOAI Labs**
+**Research Report** | **May 2026 - September 2026 ** | **SOAI Labs**(Under review)
 
 ---
 
